@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Cecylia, based in Salzburg, Austria ⛰️
+
+- 👩‍💻 Currently working as a full-stack web developer @ [eurofunk](https://www.eurofunk.com/)
 
 <!--
 **cecyliaborek/cecyliaborek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
