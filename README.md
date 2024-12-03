@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Cecylia
 
-- based in Salzburg, Austria ⛰️
+- based in Katowice, Poland 🥟
 - 👩‍💻 full-stack web developer @ [eurofunk](https://www.eurofunk.com/)
 - 🤓 I love learning new things and technologies
 - let's connect on Linkedin [@ Cecylia Borek](https://www.linkedin.com/in/cecylia-borek-7b78b81b4/)
