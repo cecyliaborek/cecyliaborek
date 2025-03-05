@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Cecylia
 
-- based in Katowice, Poland 🥟
-- 👩‍💻 full-stack web developer
-- 🤓 I love learning new things and technologies
-- let's connect on Linkedin [@ Cecylia Borek](https://www.linkedin.com/in/cecylia-borek-7b78b81b4/)
+- based in Katowice, Poland 🇵🇱
+- 👩‍💻 full-stack software engineer
+- 🤖 interested in applied AI
+- 📩 freelancer, open to projects & collaborations
+
+Reach me on Linkedin [@ Cecylia Borek](https://www.linkedin.com/in/cecylia-borek-7b78b81b4/) or via email [cecylia.borek@gmail.com](mailto:cecylia.borek@gmail.com)
 
 <!--
 **cecyliaborek/cecyliaborek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
